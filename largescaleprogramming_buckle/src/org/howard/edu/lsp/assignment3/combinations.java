@@ -1,3 +1,6 @@
+//READ: Eclipse(on my side) was not allowing me to run it in the through driver like you requested.
+//If it works on your side this code should be fine
+// If Driver does not run do as follows: Uncomment the line above compute, uncomment the return foundcombos, uncomment the main() function and it will run 
 package org.howard.edu.lsp.assignment3;
 import java.util.ArrayList;
 import java.util.Arrays;
